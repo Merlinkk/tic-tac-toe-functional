@@ -86,6 +86,12 @@ a{
     color: white;
 }
 
+.box{
+    font-size: 80px;
+    text-align: center;
+    color: #FAB201;
+}
+
 @media (max-width:600px){
     h1{
         font-size: 52px;
